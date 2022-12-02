@@ -33,7 +33,7 @@
 
 <div align="center">
   <sub>The video-conference project. Built with ❤︎ by
-    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
+    <a href="https://github.com/RafaelGoulartB">Ihor Kuznetsov</a> and
     <a href="https://github.com/RafaelGoulartB/video-conference/graphs/contributors">contributors</a>.
     Desgin by <a href="https://www.figma.com/community/file/1106484644167150673">Nickelfox Design</a>.
   </sub>
@@ -103,4 +103,4 @@ Check out the [contributing](./CONTRIBUTING.md) page to see the best places to f
 Released in 2020.
 This project is under the [MIT license](./LICENSE).
 
-Made with love by [RafaelGoulartB](https://github.com/RafaelGoulartB) 🚀
+Made with love by [hwakstar](https://github.com/hwakstar) 🚀
