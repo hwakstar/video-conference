@@ -1,10 +1,7 @@
 <h1 align="center">Video Conference with WebRTC</h1>
 
 <p align="center">	
-   <a href="https://www.linkedin.com/in/rafael-goulartb/">
-      <img alt="Rafael Goulart" src="https://img.shields.io/badge/-RafaelGoulartB-57728f?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-  <a href="https://github.com/RafaelGoulartB/video-conference#readme">
+   <a href="https://github.com/RafaelGoulartB/video-conference#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-57728f.svg" target="_blank" />
   </a>
   <a href="https://github.com/RafaelGoulartB/video-conference/graphs/commit-activity">
